@@ -1,0 +1,49 @@
+.container{
+    margin: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    border: 2px solid black;
+}
+
+.container p{
+    font-size: 48px;
+}
+
+.container a{
+    font-size: 50px;
+}
+
+.container h1{
+    font-size: 64px;
+}
+
+.Image{
+    margin: 20px;
+}
+
+.Image h1{
+    font-size: 64px;
+}
+
+.Image a{
+    font-size: 50px;
+}
+
+.Image img{
+    margin-bottom: 20px;
+}
+
+.Trivia{
+    margin: 20px;
+}
+
+
+.Trivia h1{
+    font-size: 64px;
+}
+
+.Trivia li{
+    font-size: 64px;
+    margin: 20px
+}
